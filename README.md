@@ -17,7 +17,7 @@ This project used a dataset called "2017_Yellow_Taxi_Trip_Data.csv." merged with
 
 During our modeling and evaluation phase, we put our trust in a multiple regression model to work its magic and predict fare amounts with precision. Now, take a look at the chart below. you'll see the real fare amounts and what our model predicted side by side. It proves that our model is the real deal, offering dependable fare estimates for taxi drivers and passengers, making everyone's journey a bit smoother.
 
-Image
+![text1](images/actual_vs_pred.PNG)
 
 ## Conclusion
 
